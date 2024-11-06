@@ -1,0 +1,23 @@
+{
+  "name": "jys-fs",
+  "version": "1.0.5",
+  "description": "A library for managing MongoDB connections and models using Mongoose.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "mongodb",
+    "mongoose",
+    "database",
+    "server"
+  ],
+  "author": "JYS",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.21.1",
+    "mongoose": "^8.3.2"
+  }
+}
